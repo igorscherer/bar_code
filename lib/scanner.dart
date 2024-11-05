@@ -88,7 +88,7 @@ class _ScannerPageState extends State<ScannerPage> {
                 // Copy the text to the clipboard
                 Clipboard.setData(ClipboardData(text: lista.join(', ')));
               },
-              child: const Text("Copiar Texto"),
+              child: const Text("Copiar Códigos"),
             ),
           ],
         ),
