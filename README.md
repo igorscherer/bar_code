@@ -15,4 +15,5 @@ Abra o arquivo APK que você baixou.
 Siga as instruções na tela para concluir a instalação.
 
 Caso deseje apagar todos os dados lidos basta deslizar o dedo da borda esquerda da tela para a direita na tela de **Dados Armazenados**.
+
 <img src="https://github.com/user-attachments/assets/df5500cf-1ba2-4c3c-b4a3-2de5a8aff156" width="300" />
