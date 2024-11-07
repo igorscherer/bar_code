@@ -8,7 +8,7 @@ Uma solução prática para ler **códigos de barras** e **QR** e armazená-los 
 - Exportação de dados para planilhas.
 
 ## Instalação
-Baixe o APK em seu celular **Android ≥5.0**: Clique no link para baixar a última versão da release: [V1.0.0](https://github.com/igorscherer/bar_code/releases/download/1.0.0/BarcodeScan.apk)-
+Baixe o APK em seu celular **Android ≥5.0**: Clique no link para baixar a última versão da release: [V1.0.0](https://github.com/igorscherer/bar_code/releases/download/1.0.0/BarcodeScan.apk)
 
 **Instale o APK:**
 Abra o arquivo APK que você baixou.
